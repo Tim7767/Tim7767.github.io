@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Работа</title>
+  <link href="style.css" rel="stylesheet">
+ </head>
+ <body>
+  <div id="header">
+    <h1>
+      <a href="general.php">PCHelp</a>
+    </h1>
+  </div>
+  <div id="sidebar">
+    <p><a href="about_me.php">Обо мне</a></p>
+    <p><a href="my_work.php">Моя работа</a></p>
+    <p><a href="my_skills.php">Наши услуги</a></p>
+    <p><a href="rewards.php">Достижения и награды</a></p>
+    <p><a href="contacts.php">Контактные данные</a></p>
+  </div>
+  <div id="content">
+    <h2>Контакты</h2>
+    <p>Наши адреса: сервисные центры расположены во всех районах города, для того, чтобы наши мастера оперативно выезжали к вам.</p>
+    <p>г. Казань, ул. Кул Гали, дом 10а </p>
+    <p>Режим работы: круглосуточно</p>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2245.4441758307503!2d49.22653511623857!3d55.750785880552854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x415eae0e7940a367%3A0x35d32b787ae85965!2z0YPQuy4g0JrRg9C7INCT0LDQu9C4LCAxMNCQLCDQmtCw0LfQsNC90YwsINCg0LXRgdC_LiDQotCw0YLQsNGA0YHRgtCw0L0sIDQyMDExMA!5e0!3m2!1sru!2sru!4v1527727891902" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </div>
+  <div id="footerCont">Мы в соцсетях:</div>
+ </body>
+</html>
